@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\MIGUEL\Documents\SharpDevelop Projects\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculardora.resources
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculardora.resources
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MIGUEL\Videos\Proyectos\Proyecto en Visual Basic\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
